@@ -1,0 +1,21 @@
+1	Write a Program to search the value ?
+2	Write a Program for BUBBLE SORT ?
+3	Write a Program for SELECTION SORT ?
+4	Write a Program FOR INSERTION SORT ?
+5	Write a Program FOR BINARY SEARCH ?
+6	Write a program for QUICK SORT ?
+7	Write a program for TOWER OF HANNOI ?
+8	Write a program for COUNTING SORT?
+9	Write a program for HEAP SORT?
+10	Write a program for RADIX SORT?
+11	Write a program for SHELL SORT?
+12	Write a program for fractional Knapsack problem using Greedy Approach?
+13	Write a program for TREE SORT?
+14	Write a program for strassen’s matrix multiplication?
+15	Write a program for LONGEST COMMON SUBSEQUENCE?
+16	Write a program for MERGE SORT?
+17      Write a program for CHAIN MATRIX MULTIPLICATION?
+18      Write a program for FLOYD WARSHELL ALGO?
+19      Write a program for GRAPH TRAVERSAL BY BFS/DFS?
+20      Write a program for N-QUEENS problem using backtracking?
+21      Write a programs for MINIMUM SPANNING TREE using Prim's and Kruskal'S               algorithm?
